@@ -1,7 +1,7 @@
 #include<hellomake.h>
 
-int main(){
- // cal=a function in another file
+int main ()
+{
 myPrintHelloMake();
 
 
